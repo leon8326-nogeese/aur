@@ -17,4 +17,4 @@ Server = https://raw.githubusercontent.com/leon8326-nogeese/aur/main/aur
 SigLevel = TrustAll
 ```
 
-## For the mirror click [here](github.com/leon8326-nogeese/mirror).
+## For the mirror click [here](https://github.com/leon8326-nogeese/mirror).
