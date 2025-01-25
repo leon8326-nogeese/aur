@@ -14,7 +14,7 @@ Add this line:
 ```
 [aur]
 Server = https://raw.githubusercontent.com/leon8326-nogeese/aur/main/aur
-SigLevel = TrustAll
+SigLevel = Optional TrustAll
 ```
 
 ## For the official mirror click [here](https://github.com/leon8326-nogeese/mirror/blob/main/README.md).
